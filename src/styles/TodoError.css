@@ -1,0 +1,26 @@
+.TodoErrorContainer {
+    margin-top: 30px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.TodoErrorText {
+    padding: 0;
+    margin: 5px;
+    font-weight: bold;
+}
+.TodoErrorText-emoji {
+    font-size: 50px;
+    color: rgba(156, 0, 0, 0.808);
+}
+.TodoErrorText-error {
+    font-size: 30px;
+    font-family: 'Montserrat';
+}
+.TodoErrorText-msg {
+    font-size: 20px;
+    font-family: 'Montserrat';
+}
+

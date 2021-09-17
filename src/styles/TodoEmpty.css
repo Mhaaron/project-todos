@@ -1,0 +1,14 @@
+.TodoEmptyContainer {
+    height: 200px;
+    width: cacl(100% - 20%);
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Anton', sans-serif;
+    color: #3e4041;
+}
